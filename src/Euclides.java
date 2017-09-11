@@ -5,6 +5,10 @@ public class Euclides {
 		// TODO Auto-generated method stub
 		System.out.println("Euclides");
 //Comentado codigo
+		int idade;
+		String nome;
+		
+		
 	}
 
 }
