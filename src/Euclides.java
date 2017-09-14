@@ -7,6 +7,7 @@ public class Euclides {
 //Comentado codigo
 		int idade;
 		String nome;
+                double altura;
 		
 		
 	}
