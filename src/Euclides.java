@@ -6,8 +6,9 @@ public class Euclides {
 		System.out.println("Euclides");
 //Comentado codigo
 		int idade;
-		String nome;
+		String nome="Euclides";
                 double altura;
+                System.out.println(nome);
 		
 		
 	}
